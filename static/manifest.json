@@ -1,0 +1,13 @@
+{
+  "name": "Polo Health",
+  "short_name": "Polo Health",
+  "description": "Smart AI calorie tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050b1a",
+  "theme_color": "#050b1a",
+  "icons": [
+    { "src": "/static/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
